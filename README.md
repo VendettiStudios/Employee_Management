@@ -89,6 +89,6 @@ Adding Delete functions, More Editing functions, showing results after Adding to
 
 ## Author
 ​
-- [Daniel Holloway](https//:Danielholloway.dev)
+- [Daniel Holloway](https://Danielholloway.dev)
 
 ​
