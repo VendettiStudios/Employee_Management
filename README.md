@@ -56,7 +56,6 @@ THEN I am prompted to select an employee to update and their new role and this i
 ### Links
 ​
 - Solution URL: [Github](https://github.com/VendettiStudios/Manage-Employees)
-- Live Site URL: [YouTube Demo](https://youtu.be/n-kcxOAiqQk)
 ​
 ## My process
 ​
@@ -90,6 +89,6 @@ Adding Delete functions, More Editing functions, showing results after Adding to
 
 ## Author
 ​
-- Daniel@VendettiStudios.com
+- [Daniel Holloway](https//:Danielholloway.dev)
 
 ​
